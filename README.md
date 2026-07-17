@@ -33,14 +33,11 @@ Currently, I'm learning Node.js to expand my backend knowledge and continue impr
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XxScrimxX&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxScrimxX&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=XxScrimxX&theme=github-dark&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=XxScrimxX&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
+
+</div>
 
 ---
 

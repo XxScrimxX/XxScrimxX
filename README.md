@@ -31,16 +31,6 @@ Currently, I'm learning Node.js to expand my backend knowledge and continue impr
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=XxScrimxX&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
-
-</div>
-
----
-
 ## Interests
 
 - Python
@@ -61,7 +51,7 @@ Currently, I'm learning Node.js to expand my backend knowledge and continue impr
 
 ## Outside of Coding
 
-When I'm away from my editor, you'll usually find me listening to **$uicideboy$**, experimenting with new technologies, or working on personal projects.
+When I'm away from my editor, you'll usually find me listening to **Suicideboy$**, experimenting with new technologies, or working on personal projects.
 
 ---
 

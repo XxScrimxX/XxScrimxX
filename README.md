@@ -51,7 +51,7 @@ Currently, I'm learning Node.js to expand my backend knowledge and continue impr
 
 ## Outside of Coding
 
-When I'm away from my editor, you'll usually find me listening to **Suicideboy$**, experimenting with new technologies, or working on personal projects.
+When i am away from my editor, i like homelabing and learning new things.
 
 ---
 
